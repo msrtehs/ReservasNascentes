@@ -1,0 +1,8 @@
+{
+  "name": "Reserva Real Estate",
+  "description": "Um portal exclusivo para os condomínios Reserva da Nascente e Reserva das Águas em Catu-BA, focado em qualidade de vida e conexão com a natureza.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
